@@ -1,0 +1,12 @@
+C:\Users\04rom\source\repos\Avigestor\CapaEntidades\bin\Debug\CapaEntidades.dll
+C:\Users\04rom\source\repos\Avigestor\CapaEntidades\bin\Debug\CapaEntidades.pdb
+C:\Users\04rom\source\repos\Avigestor\CapaEntidades\obj\Debug\CapaEntidades.csproj.AssemblyReference.cache
+C:\Users\04rom\source\repos\Avigestor\CapaEntidades\obj\Debug\CapaEntidades.csproj.CoreCompileInputs.cache
+C:\Users\04rom\source\repos\Avigestor\CapaEntidades\obj\Debug\CapaEntidades.dll
+C:\Users\04rom\source\repos\Avigestor\CapaEntidades\obj\Debug\CapaEntidades.pdb
+C:\Users\luisd\OneDrive\Escritorio\avigestor\Avigestor-main\Avigestor\CapaEntidades\bin\Debug\CapaEntidades.dll
+C:\Users\luisd\OneDrive\Escritorio\avigestor\Avigestor-main\Avigestor\CapaEntidades\bin\Debug\CapaEntidades.pdb
+C:\Users\luisd\OneDrive\Escritorio\avigestor\Avigestor-main\Avigestor\CapaEntidades\obj\Debug\CapaEntidades.csproj.AssemblyReference.cache
+C:\Users\luisd\OneDrive\Escritorio\avigestor\Avigestor-main\Avigestor\CapaEntidades\obj\Debug\CapaEntidades.csproj.CoreCompileInputs.cache
+C:\Users\luisd\OneDrive\Escritorio\avigestor\Avigestor-main\Avigestor\CapaEntidades\obj\Debug\CapaEntidades.dll
+C:\Users\luisd\OneDrive\Escritorio\avigestor\Avigestor-main\Avigestor\CapaEntidades\obj\Debug\CapaEntidades.pdb
